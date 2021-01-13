@@ -12,13 +12,13 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="./src/assets/banner.png" alt="DIO" title="Digital Innovation One">
+  <img src="./src/assets/readme/banner.png" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->
 <h1 align="center">Desenvolvendo um jogo da memória<br>Digital Innovation One</h1>
 
-<img src="./src/assets/badge.png" title="Badge" width="70" height="70">
+<img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
 
 Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
@@ -26,7 +26,7 @@ Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML,
 
 <!-- - [Projeto desenvolvido](https://game-genius.vercel.app/) -->
 
-<!-- <p align="center"><img src="./src/assets/projeto.gif" title="Jogo de Naves - DIO"></p> -->
+<!-- <p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p> -->
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
