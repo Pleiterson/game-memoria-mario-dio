@@ -24,9 +24,9 @@ Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://
 
 Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
 
-<!-- - [Projeto desenvolvido](https://game-genius.vercel.app/) -->
+- [Projeto desenvolvido](https://game-memoria-mario.vercel.app/)
 
-<!-- <p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p> -->
+<p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo Mário - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
